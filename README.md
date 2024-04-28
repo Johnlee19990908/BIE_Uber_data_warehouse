@@ -27,8 +27,6 @@
 ## OLAP Operations and Tableau Dashboard:
 - Traditional OLAP operations in Tableau for analyzing stored historical data.
 - Tableau Dashboard includes Uber market shares in New York, trip duration analysis, and traffic congestion analysis.
-
-## Additional Resources:
 - Refer to `Tableau_Workbook.twb` for the detailed dashboard.
 ![Image Description](https://github.com/Johnlee19990908/BIE_Uber_data_warehouse/blob/main/readme_image/5.png)
 ![Image Description](https://github.com/Johnlee19990908/BIE_Uber_data_warehouse/blob/main/readme_image/6.png)
