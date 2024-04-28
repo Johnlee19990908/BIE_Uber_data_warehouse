@@ -13,9 +13,11 @@
 - **Database Schema Creation:** Use `2_operaional_normal_db.sql` for database schema creation and `3_insert into table.sql` to insert raw sample data into the operational database.
 - **Data Warehouse Schema:** Refer to `dw_schema.sql` for the data warehouse snowflake schema.
 
-![Image Description](https://github.com/Johnlee19990908/BIE_Uber_data_warehouse/blob/main/readme_image/2.png)
+![Image Description](https://github.com/Johnlee19990908/BIE_Uber_data_warehouse/blob/main/readme_image/8.png)
 
 - **Talend ETL Implementation:** Import `talend_ETL.zip` into Talend to implement the ETL from the operational database to the data warehouse.
+
+![Image Description](https://github.com/Johnlee19990908/BIE_Uber_data_warehouse/blob/main/readme_image/2.png)
 
 ## ETL Implementation Details:
 - Orchestrated Talend Studio ETL pipeline for 8 tables, facilitating data transfer from operational database to data warehouse.
